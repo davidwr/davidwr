@@ -5,6 +5,7 @@
 - 🎸 Amateur guitarist
 - 🎮 Casual gamer
 - 🏯 Studio Ghibli fan
+- Inline Skater
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwr)](https://github.com/anuraghazra/github-readme-stats)
 
